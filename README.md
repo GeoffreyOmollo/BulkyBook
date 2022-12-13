@@ -31,7 +31,11 @@ The features present in this project:
 
 ## Screenshots
 
-Screenshots
+![image](https://user-images.githubusercontent.com/120243097/207308166-26fbfec7-cb4a-45ab-b731-9f8b8b5dc433.png)
+-----
+![image](https://user-images.githubusercontent.com/120243097/207308318-a36f77e9-450a-4554-89af-4a2b731bbaec.png)
+-----
+![image](https://user-images.githubusercontent.com/120243097/207308452-349f2c7a-e9bd-4ca6-b155-df47356d3ee5.png)
 
 
 ## Setup
