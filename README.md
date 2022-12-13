@@ -24,10 +24,10 @@
 
 ## Features
 The features present in this project:
-- You can add a category to a database
+- You can add a category to a database i.e to the book
 - You can remove the category from the database
 - You can edit the category details
-- You can list all the categories
+- You can list all the categories i.e you can view the contents of the book
 
 ## Screenshots
 
