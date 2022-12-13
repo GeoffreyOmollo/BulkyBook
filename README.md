@@ -1,5 +1,5 @@
-# Category List Project
-> This is a Category Listing project developed in ASP.NET Core MVC (.NET 6)
+# BulkyBook Project
+> This is a project which stores categories in a book-like manner. It is developed in ASP.NET Core MVC (.NET 6)
 
 ## Table of Contents
 * [General Info](#general-information)
