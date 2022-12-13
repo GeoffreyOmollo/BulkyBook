@@ -1,5 +1,5 @@
 # BulkyBook Project
-> This is a project which stores categories in a book-like manner. It is developed in ASP.NET Core MVC (.NET 6)
+> This is a CRUD project which is meant to store categories in a book-like manner. It has been developed in ASP.NET Core MVC (.NET 6)
 
 ## Table of Contents
 * [General Info](#general-information)
