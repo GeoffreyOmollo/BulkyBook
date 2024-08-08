@@ -50,7 +50,7 @@ This is a simple project but a lot more could be added e.g.:
 - A feature to group categories
 
 ## Acknowledgements
-I was doing this project while learning ASP.NET and I'd like to thank Brughen Patel for his amazing works that made me achieve this project.
+I'd like to thank Brughen Patel for his amazing works that made me achieve this project.
 
 ## Contact
 Created by Geoffrey Omollo - feel free to contact me!
